@@ -1,0 +1,4 @@
+pandas>=2.2.2
+tqdm>=4.66.5
+# llama-cpp-python>=0.2.90 # compiled manually
+jupyterlab
